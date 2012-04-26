@@ -2,7 +2,7 @@
 ## A PROPOS ##
 ##############
 
-Programme : Drop Center
+Programme : Drop Center Anonymous Upload
 Version : V1.4
 Distribution : BETA
 Auteurs : -Valentin CARRUESCO aka Idleman (contact@dropcenter.fr - http://blog.idleman.fr)
@@ -10,6 +10,7 @@ Auteurs : -Valentin CARRUESCO aka Idleman (contact@dropcenter.fr - http://blog.i
 
 Contributeurs :
 -Thibaud aka H3bus http://h3b.us
+-Louis aka Ak:kes http://akkes.lescigales.org akkes.perso@gmail.com
 
 Plugins : -jQuery Filedrop (Weixi Yen), basé sur la version de Martin Angelov (tutorialzine.com)
 -Jquery (www.jquery.com)
